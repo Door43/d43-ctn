@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ctn:home|Door43 (ctn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ctn|d43-ctn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ctn/archive/master.zip|d43-ctn.zip]]
+
+**Recent Changes**
+{{changes>ns = ctn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ctn|Ethnologue data]]
+
